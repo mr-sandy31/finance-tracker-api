@@ -19,10 +19,10 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 ## API Docs
-https://your-backend.onrender.com/docs
+https://finance-tracker-api-1-3ssk.onrender.com/docs
 
 ## Frontend
-https://your-frontend.vercel.app
+https://finance-tracker-api-taupe.vercel.app/
 
 ## Assumptions
 - Simple role handling
