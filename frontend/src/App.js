@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-const BASE_URL = "http://192.168.1.15:8000";
+const BASE_URL = "https://finance-tracker-api-1-3ssk.onrender.com";
 
 function App() {
   const [editId, setEditId] = useState(null);
